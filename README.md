@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**kendalpasa/kendalpasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm kendal, a second-year Digital Game Design student at Istanbul Topkapı University.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning Google MediaPipe library.
+- 💬 Ask me about my day.
+- 📫 How to reach me: see my bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------------------------------------------------------------------------
+
+## Tools & Tech
+- C#, HTML, CSS
+- Unity, Figma
+
+-------------------------------------------------------------------------
+
