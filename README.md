@@ -1,17 +1,20 @@
-## Hi there 👋
+## Hi canim
 
-I'm kendal, a second-year Digital Game Design student at Istanbul Topkapı University.
+I'm kendal, a Solo or small crew dev, pixelart artist and third-year Digital Game Design student at Istanbul Topkapı University.
 
 - 🔭 I’m currently working on nothing.
-- 🌱 I’m currently learning s&box Editor.
+- 🌱 I’m currently learning Godot & GDScript.
 - 💬 Ask me about my day.
 - 📫 How to reach me: see my bio
 
+
+
 -------------------------------------------------------------------------
 
-## Tools & Tech
-- C#, GDScript, HTML, CSS
-- Unity, Godot, Unreal Engine, s&box Editor, Figma
+Know C#, GDScript
+Used Unity, Unreal Engine and Godot as game engines.
+fav godot
+Use Aseprite for pixelart.
 
 -------------------------------------------------------------------------
 
