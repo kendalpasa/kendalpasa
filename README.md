@@ -12,8 +12,11 @@ I'm kendal, a Solo or small crew dev, pixelart artist and third-year Digital Gam
 -------------------------------------------------------------------------
 
 Know C#, GDScript
+
 Used Unity, Unreal Engine and Godot as game engines.
+
 fav godot
+
 Use Aseprite for pixelart.
 
 -------------------------------------------------------------------------
